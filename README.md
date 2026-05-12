@@ -8,6 +8,9 @@ This contains everything you need to run your app locally.
 
 View your app in AI Studio: https://ai.studio/apps/ea32bd3c-bb0d-4166-8e56-50b1eba2c812
 
+Running in onRender : https://visionscan.onrender.com
+
+
 ## Run Locally
 
 **Prerequisites:**  Node.js
